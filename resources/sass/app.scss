@@ -1,0 +1,17 @@
+// Fonts
+@import url("https://fonts.googleapis.com/css?family=Nunito");
+
+// Variables
+@import "variables";
+
+// Bootstrap
+@import "~bootstrap/scss/bootstrap";
+
+.home-status {
+    text-align: center;
+    font-weight: bold;
+    font-size: xx-large;
+}
+#emoji-popup img {
+    display: inline !important;
+}
